@@ -2,4 +2,4 @@
 
 A simple Python to-do list application that lets you manage your tasks.
 
-Status: supports add and view
+Status: supports add, view and mark-done
